@@ -1,6 +1,8 @@
 # 🎮 Kodland Survivals
 
-▶️ [Clique aqui para assistir ao vídeo de gameplay](Introkodlandsurvivals.mp4)
+[![video](https://img.youtube.com/vi/yfFIyLkW2po/0.jpg)](https://youtu.be/yfFIyLkW2po)
+
+▶️ [Clique acima para assistir ao vídeo de gameplay!]
 
 
 Um jogo de sobrevivência no estilo *roguelike* feito com 💻 **Python + PGZero**, onde você enfrenta ondas de inimigos, desbloqueia upgrades e tenta sobreviver o máximo possível!
