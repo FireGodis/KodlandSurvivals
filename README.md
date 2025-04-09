@@ -1,6 +1,7 @@
 # 🎮 Kodland Survivals
 
-![banner](kodlandgame.png)
+▶️ [Clique aqui para assistir ao vídeo de gameplay](introkodlandsurvivals.mp4)
+
 
 Um jogo de sobrevivência no estilo *roguelike* feito com 💻 **Python + PGZero**, onde você enfrenta ondas de inimigos, desbloqueia upgrades e tenta sobreviver o máximo possível!
 
@@ -51,6 +52,8 @@ A cada onda completada, você escolhe **1 entre 5 upgrades aleatórios** que mel
 - **Vampirismo (10% de vida a cada inimigo derrotado)**
 
 Esses upgrades tornam cada partida única e trazem um elemento estratégico ao jogo.
+
+![banner](kodlandgame.png)
 
 ---
 
