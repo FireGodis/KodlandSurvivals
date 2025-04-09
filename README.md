@@ -60,3 +60,9 @@ Esses upgrades tornam cada partida única e trazem um elemento estratégico ao j
 2. Instale a biblioteca PGZero:
    ```bash
    pip install pgzero
+
+3. Digite o comando:
+   ```bash
+   pgzrun main.py
+
+4.Divirta-se.
