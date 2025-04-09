@@ -1,6 +1,6 @@
 # 🎮 Kodland Survivals
 
-![banner](https://user-images.githubusercontent.com/0000000/banner-placeholder.png)
+![banner](kodlandgame.png)
 
 Um jogo de sobrevivência no estilo *roguelike* feito com 💻 **Python + PGZero**, onde você enfrenta ondas de inimigos, desbloqueia upgrades e tenta sobreviver o máximo possível!
 
